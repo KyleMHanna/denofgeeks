@@ -1,0 +1,27 @@
+.bg-img{
+    background-image: url("https://www.denofgeek.com/wp-content/uploads/2021/08/what-if-episode-2-banner.png?fit=1998%2C501&resize=1998%2C501");
+    background-size:cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+    background-position: center;
+
+}
+.container-fluid {
+    padding: 0%;
+    padding-left: 0%!important;
+    padding-right: 0%!important;
+}
+.adcontent{
+    background-color:#dee2e6 ;
+}
+
+.img-resize{
+    
+    max-width: 325px;
+    min-height: 35vh;
+   
+}
+
+.cust-marg{
+    margin-right: 10px;
+}
